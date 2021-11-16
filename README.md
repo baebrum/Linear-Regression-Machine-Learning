@@ -1,0 +1,2 @@
+# Linear-Regression-Machine-Learning
+For this task in COMPE-596, Machine Learning for Engineering at San Diego State University, I use linear regression modeling to predict After doing so, you should complete this code  %               to predict the price of a house that is 2 year  %               old, 500 meter to the nearest MRT station, and  %               has 8 convenience stores in the living circle  %               on foot
